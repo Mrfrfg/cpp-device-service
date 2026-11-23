@@ -12,3 +12,5 @@
 *.bak
 *_before_*.cpp
 /server_*.cpp
+
+/build-*/
